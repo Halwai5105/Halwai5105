@@ -1,5 +1,10 @@
-# 💫 About Me:
-🛠️ I'm currently working on AI-driven analytics platforms for small and medium-sized businesses, with an emphasis on trend detection, data intelligence, and decision-support systems that use online data and natural language processing.<br><br>🤝 I want to work with others on data engineering, AI/ML projects, SaaS product design, and research-focused systems that transform unprocessed data into useful business insights.<br><br>🆘 For AI platforms that are ready for production, I need assistance scaling data pipelines, enhancing model explainability, and upgrading system design.<br><br>🌱 I'm currently learning advanced natural language processing pipelines, data mining techniques, analytics platform system architecture, and real-world dataset performance optimization.<br><br>💬 Ask me about<br>Web scraping, data preprocessing, AI-based trend analysis, NLP systems, SMB analytics, and building projects from idea to execution.<br><br>⚡Fun fact<br>In addition to being fascinated by automobiles, bikes, and deep conversations, I like dissecting intricate business issues into simple technical systems.
+# 💫 About Me:🧠 Computer Science student & software engineer building AI-powered applications, data intelligence systems, and scalable full-stack platforms.
+🔬 Interested in AI/ML, NLP, Data Engineering, Web Scraping, Business Analytics, SaaS, and Research.
+🚀 Currently working on systems that transform raw and online data → structured intelligence → actionable business insights.
+🛠️ Tech: Python • JavaScript/TypeScript • React • Node.js • Flask • SQL • MongoDB • PostgreSQL • Docker • ML/NLP • RAG • Data Pipelines • Power BI
+🤝 Open to collaborating on AI/ML, Data Engineering, SaaS, Research, and real-world software projects.
+🌱 Currently exploring advanced NLP, scalable data architectures, model explainability, data mining, distributed processing, and production ML systems.
+💬 Ask me about AI/ML, NLP, web scraping, data preprocessing, trend analysis, data engineering, full-stack development, and system design.
 
 
 ## 🌐 Socials:
