@@ -1,10 +1,10 @@
 # 💫 About Me:🧠 Computer Science student & software engineer building AI-powered applications, data intelligence systems, and scalable full-stack platforms.
-🔬 Interested in AI/ML, NLP, Data Engineering, Web Scraping, Business Analytics, SaaS, and Research.
-🚀 Currently working on systems that transform raw and online data → structured intelligence → actionable business insights.
-🛠️ Tech: Python • JavaScript/TypeScript • React • Node.js • Flask • SQL • MongoDB • PostgreSQL • Docker • ML/NLP • RAG • Data Pipelines • Power BI
-🤝 Open to collaborating on AI/ML, Data Engineering, SaaS, Research, and real-world software projects.
-🌱 Currently exploring advanced NLP, scalable data architectures, model explainability, data mining, distributed processing, and production ML systems.
-💬 Ask me about AI/ML, NLP, web scraping, data preprocessing, trend analysis, data engineering, full-stack development, and system design.
+🔬 Interested in AI/ML, NLP, Data Engineering, Web Scraping, Business Analytics, SaaS, and Research.<br>
+🚀 Currently working on systems that transform raw and online data → structured intelligence → actionable business insights.<br>
+🛠️ Tech: Python • JavaScript/TypeScript • React • Node.js • Flask • SQL • MongoDB • PostgreSQL • Docker • ML/NLP • RAG • Data Pipelines • Power BI<br>
+🤝 Open to collaborating on AI/ML, Data Engineering, SaaS, Research, and real-world software projects.<br>
+🌱 Currently exploring advanced NLP, scalable data architectures, model explainability, data mining, distributed processing, and production ML systems.<br>
+💬 Ask me about AI/ML, NLP, web scraping, data preprocessing, trend analysis, data engineering, full-stack development, and system design.<br>
 
 
 ## 🌐 Socials:
